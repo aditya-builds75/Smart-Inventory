@@ -99,8 +99,8 @@ Interested in Power BI, Business Intelligence, Finance, and Data Analytics.
 
 This project is created for learning, portfolio, and educational purposes.
 
-screnshort / Demso
-Show what tha dashboard look like.[Alt text](htts//github.com/username/repo/assets/image.png)
+Screenshots / Demso
+
 example.[dashboard preview](https://github.com/aditya-builds75/Smart-Inventory/blob/main/Smart%20Inventory.png)
 
 https://github.com/aditya-builds75/Smart-Inventory/blob/main/Smart%20Inventory.png
