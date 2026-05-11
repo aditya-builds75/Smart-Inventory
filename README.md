@@ -98,4 +98,5 @@ Interested in Power BI, Business Intelligence, Finance, and Data Analytics.
 ## License
 
 This project is created for learning, portfolio, and educational purposes.
+https://github.com/aditya-builds75/Smart-Inventory/blob/main/Smart%20Inventory.png
 # Smart-Inventory
