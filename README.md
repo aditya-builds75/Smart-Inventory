@@ -103,5 +103,4 @@ Screenshots / Demso
 
 example.![dashboard preview](https://github.com/aditya-builds75/Smart-Inventory/blob/main/Smart%20Inventory.png)
 
-https://github.com/aditya-builds75/Smart-Inventory/blob/main/Smart%20Inventory.png
 # Smart-Inventory
